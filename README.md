@@ -9,3 +9,11 @@ Product Advertising API
   </br> </br>
  
  https://docs.aws.amazon.com/AWSECommerceService/latest/DG/CHAP_GettingStarted.html
+ </br>
+ http://www.icnws.com/2017/survey-for-Amazon-Product-Advertising-API/
+ </br>
+ https://www.crifan.com/amazon_aws_api_basic_concerpt_and_logic/
+  </br>
+ https://c4ys.com/archives/584
+  </br>
+  http://www.yihnet.com/2013/08/26/how-to-apply-for-united-states-amazon-associates-registration-tutorial/
