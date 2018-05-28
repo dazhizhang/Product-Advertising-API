@@ -17,3 +17,10 @@ Product Advertising API
  https://c4ys.com/archives/584
   </br>
   http://www.yihnet.com/2013/08/26/how-to-apply-for-united-states-amazon-associates-registration-tutorial/
+  
+  </br>
+  affilicate 页面  </br>
+  https://affiliate-program.amazon.com/assoc_credentials/home
+  </br>
+ 快速查询 页面  </br>
+  http://webservices.amazon.com/scratchpad/index.html
