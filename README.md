@@ -24,3 +24,6 @@ Product Advertising API
   </br>
  快速查询 页面  </br>
   http://webservices.amazon.com/scratchpad/index.html
+</br>
+API 详细说明</br>
+https://docs.aws.amazon.com/AWSECommerceService/latest/DG/CHAP_ResponseGroupsList.html
